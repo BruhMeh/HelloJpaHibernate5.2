@@ -19,7 +19,7 @@
                 value="org.postgresql.Driver" />
 
             <property name="javax.persistence.jdbc.url" 
-                value="jdbc:postgres://localhost/financas" />
+                value="jdbc:postgresql://localhost:5432/financas" />
 
             <property name="javax.persistence.jdbc.user" value="postgres" />
             <property name="javax.persistence.jdbc.password" value="12345678" />
